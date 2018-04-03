@@ -24,9 +24,7 @@ import java.util.ArrayList;
 import java.util.Timer;
 import java.util.TimerTask;
 
-/**
- * Created by Julien on 13.05.16.
- */
+
 public class ContentUpdateManager implements DownloadPlayableContentQueueHandler.DownloadCompleteHandler, AbstractProxyServer.ReceivedTelemetricResponseHandler, AbstractProxyServer.ReceivedTickerHandler, AbstractProxyServer.ReceivedPlaylistHandler{
 
     private static String PREF_KEY_LAST_UPDATE = "LastUpdateDate";
