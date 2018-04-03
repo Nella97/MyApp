@@ -22,8 +22,7 @@ import java.util.ArrayList;
 import java.util.StringTokenizer;
 
 /**
- * Created by Julien on 13.05.16.
- */
+ * Created by  on Ornella */
 public class AppConfig {
 
     //static String CONFIGFILE_PATH = "config.txt";
