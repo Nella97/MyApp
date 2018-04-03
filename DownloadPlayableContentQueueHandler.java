@@ -20,9 +20,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Set;
 
-/**
- * Created by Julien on 11.05.16.
- */
+
 public class DownloadPlayableContentQueueHandler {
 
     interface DownloadCompleteHandler{
