@@ -12,7 +12,7 @@ import android.widget.Toast;
 import java.util.List;
 
 /**
- * Created by Julien on 01.06.16.
+ * Created by Ornella
  */
 public class AlarmBroadcastReceiver extends BroadcastReceiver
 {
