@@ -13,9 +13,7 @@ import java.text.DecimalFormat;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-/**
- * Created by Julien on 11.05.16.
- */
+
 public class MediaHandler {
 
     public static Context appContext;
