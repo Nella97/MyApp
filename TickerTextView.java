@@ -8,9 +8,7 @@ import android.view.animation.LinearInterpolator;
 import android.widget.Scroller;
 import android.widget.TextView;
 
-/**
- * Created by julien on 02.05.16.
- */
+
 public class TickerTextView extends TextView {
 
     // scrolling feature
