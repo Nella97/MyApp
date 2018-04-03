@@ -7,9 +7,7 @@ import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
 import android.util.Log;
 
-/**
- * Created by Julien on 11.05.16.
- */
+
 public class NetworkConnectivityBroadcastReceiver extends BroadcastReceiver {
 
     @Override
