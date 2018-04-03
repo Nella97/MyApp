@@ -11,9 +11,7 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.StringTokenizer;
 
-/**
- * Created by Julien on 19.05.16.
- */
+
 public class USBContentUpdateManager extends ContentUpdateManager {
 
     public int getDefaultTimerInterval() {
