@@ -6,9 +6,7 @@ import android.content.Intent;
 import android.util.Log;
 import android.widget.Toast;
 
-/**
- * Created by Julien on 11.05.16.
- */
+
 public class BootBroadcastReceiver extends BroadcastReceiver {
 
     @Override
